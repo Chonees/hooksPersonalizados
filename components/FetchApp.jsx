@@ -2,7 +2,8 @@ export const FetchApp = () => {
   return (
     <>
       <h2 className="h2">Lista de usuarios:</h2>
-      <table class="table">
+      <br />
+      <table className="table">
         <thead>
           <tr>
             <th scope="col">#</th>
