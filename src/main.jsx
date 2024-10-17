@@ -1,10 +1,10 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-   import { HooksApp } from '../Hooks/HooksApp'
-import './index.css'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { HooksApp } from "../Hooks/HooksApp";
+import "./index.css";
 
-createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <HooksApp/>
-  </StrictMode>,
-)
+    <HooksApp />
+  </StrictMode>
+);

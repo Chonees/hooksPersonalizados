@@ -1,4 +1,6 @@
 export const FetchApp = () => {
+  const { data, isLoading, errors } = useFetch();
+
   return (
     <>
       <h2 className="h2">Lista de usuarios:</h2>
