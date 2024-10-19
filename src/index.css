@@ -3,7 +3,7 @@
 }
 
 .h2 {
-  color: rgb(20, 20, 20);
+  color: rgb(19, 20, 20);
 }
 
 .table th {
@@ -22,6 +22,7 @@
   margin: auto;
 }
 
-#root , body {
+#root,
+body {
   background-color: rgb(49, 46, 46);
 }
