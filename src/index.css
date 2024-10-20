@@ -1,5 +1,5 @@
 .h1 {
-  color: rgb(22, 22, 22);
+  color: rgb(23, 22, 22);
 }
 
 .h2 {
@@ -18,11 +18,11 @@
 }
 
 .table {
-  width: 50%;
+  width: 45%;
   margin: auto;
 }
 
 #root,
 body {
-  background-color: rgb(49, 46, 46);
+  background-color: rgb(71, 60, 60);
 }
